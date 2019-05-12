@@ -1,6 +1,6 @@
 using System;
 
-namespace CalendarV1._0.Models
+namespace CalendarV1.Models
 {
     public class ErrorViewModel
     {
